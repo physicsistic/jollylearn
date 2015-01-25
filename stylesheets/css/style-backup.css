@@ -1,0 +1,40 @@
+
+body {
+  background-color: #d2d5d6;
+}
+
+.container {
+  font-family: 'Titillium Web';
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.branding {
+  font-family: 'Titillium Web';
+  font-weight: 700;
+  text-align: center;
+  font-size: 200px;
+  margin-bottom: 60px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.social-icons {
+  height: 100px;
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align:center;
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
